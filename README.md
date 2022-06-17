@@ -1,1 +1,3 @@
 # Sveprisutno-racunarstvo
+
+Prvi projekat
